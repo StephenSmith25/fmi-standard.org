@@ -6,6 +6,7 @@
         "logo": "pythonfmu3.svg",
         "vendor": "Stephen Smith",
         "vendorURL": "https://github.com/StephenSmith25",
+        "examplesURL": "https://github.com/StephenSmith25/PythonFMU3/tree/HEAD/examples",
         "description": "Exports Python classes as FMUs that run the Python code in an embedded interpreter",
         "features": [],
         "platforms": [
